@@ -1,0 +1,25 @@
+{
+  "name": "mongodbcollection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dbconfig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dbconfig.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jibonofficial/Mongodbcobbection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jibonofficial/Mongodbcobbection/issues"
+  },
+  "homepage": "https://github.com/jibonofficial/Mongodbcobbection#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.12.1"
+  }
+}
